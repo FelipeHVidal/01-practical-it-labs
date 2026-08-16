@@ -49,6 +49,7 @@ From its purchase in 2021 until July 2026, the laptop had never undergone physic
 
 * **Minimum Temperature (Min) when cold:** 41.8 °C
 * **Idle Temperature (Value):** 47.1 °C
+* **Maximum Temperature reached under stress:** ⚠ 96.5 °C
 <p align="center">
   <img src="images/hardware-maintenance-03.JPG" width="48%" alt="HWMonitor Initial Test Part 1" />
   <img src="images/hardware-maintenance-04.JPG" width="48%" alt="HWMonitor Initial Test Part 2" />
