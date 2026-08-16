@@ -102,6 +102,11 @@ Open the device, replace the thermal paste, and perform a deep cleaning of the c
 </p>
 
 5. ⚠️ **Disconnected the battery as the first safety step** after the initial visual inspection.
+<p align="center">
+  <img src="images/hardware-maintenance-07.jpg" width="48%" alt="HWMonitor Initial Test Part 1" />
+  <img src="images/hardware-maintenance-08.jpg" width="48%" alt="HWMonitor Initial Test Part 2" />
+</p>
+
 6. Identified the components and critical points to clean: cooling fan, heatsink, and ventilation grilles.
 7. Determined the disassembly sequence after reviewing support documentation and videos: Wi-Fi antenna cables, heatsink, fan.
 8. ⚠️ **Critical Problem:** 2 of the 4 screws securing the heatsink to the processor were stripped/barred. Exposed to constant temperature changes, they suffered thermal fatigue, weakening the material.
