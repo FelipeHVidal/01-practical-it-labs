@@ -1,1 +1,40 @@
+Objetivo: 
+Mantenimiento preventivo a Laptop Huawei Matebook D14 del año 2021.
 
+Antecedentes: 
+Este laptop presentaba temperaturas elevadas en actividades de alto rendimiento como en el renderizado y exportación de video editados en alta resolución o en videojuego que exigen un alto rendimiento.
+Comencé a observar esta alza de temperatura mientras jugaba largas partidas online con mis hijos. 
+Al laptop nunca se le había hecho mantenimienito de limpieza física, eliminación de polvo y cambio de pasta desde que fue comprado en 2021 hasta junio de 2026.
+
+Síntomas: 
+El equipo eleva su temperatura lo que es evidente al tacto en la zona del teclado. 
+El equipo se apagó de manera preventiva para evitar un sobrecalentamiento que dañe permanentemente los componentes internos, como el procesador (CPU) o la tarjeta gráfica (GPU).
+
+Diagnóstico: 
+Hice un diagnóstico de rendimiento térmico para comprobar con métrica real si el sistema de refrigeración funciona bien.
+Utilicé como observador (de la temperatura) el software **HWMonitor** para registrar cómo reacciona el sistema de ventilación, y el software **Cinebench R23** como estresor corriendo la prueba de rendimiento (benchmark) CPU Multi Core que obliga a todos los núcleos del procesador (CPU) a trabajar al 100% de su capacidad. 
+Nota: este laptop tiene un procesador **AMD Ryzen 5 3500U** cuenta con 4 núcleos y 8 hilos. Cinebench R23 es compatible con estas características.
+
+
+Secuencia de la Prueba:
+1) Con el laptop en frío y sin correr otros softwares, inicio la **medición y registro** con **HWMonitor** durante 5 minutos. Esto mide la temperatura "en reposo" o sin estrés del procesador.
+2) Mientras **HWMonitor** registra la actividad, inicio la prueba de estrés "CPU Multi Core" en el software **Cinebench R23**, que dura 10 minutos. 
+3) Al finalizar la prueba de estrés detengo la medición.
+4) Lectura de los resultados:
+   a) Temperatura mínimo (Min) antes de la prueba de estrés: 41,8ºC
+   b) Temperatura en reposo (Value): 47,1ºC
+   b) Temperatura máximo alcanzado durante la prueba de estrés: 96,5ºC
+   **imagen 1 y 2 10.07.26**
+
+
+Conclusiones según lo que investigué: 
+   1) **47,1ºC** en resposo es **elevado**. La temperatura de un laptop en reposo debería oscilar entre 35°C y 42°C.
+   2) **96,5ºC** máximo en estrés es una **alerta roja**. La temperatura normalmente en estrés máximo debería oscilar entre 78°C - 85°C cuando el calor está siendo correctamente disipado. 
+   3) Estamos ante un **riesgo evidente**. El límite absoluto de destrucción de este procesador AMD es de 105°C, Huawei programa la laptop para que active las alarmas al cruzar los 95°C, por lo que puede apagarse (provocando otros problemas) o recortar el consumo eléctrico evitando entregar todo su potencial.
+   4) El calor no se está disipando correctamente por lo que es probable que la pasta térmica esté seca (por los años y el uso) y adem'sa otros elementos estén impidiendo una correcta ventilación.
+   
+Soluciones:
+1) Abrir el laptop y cambiar la pasta térmica del procesador y disipador para que disipe el calor correctamente.
+2) Limpiar correctamente el interior con especial atención en el ventilador y ranuras de ventilación, eliminando suciedad, motas y pelusas de polvo.
+
+Procedimiento
