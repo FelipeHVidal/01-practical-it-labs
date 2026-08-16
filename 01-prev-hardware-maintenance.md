@@ -122,8 +122,19 @@ Open the device, replace the thermal paste, and perform a deep cleaning of the c
 9. **Problem Resolution:** Temporarily aborted maintenance, cleaned surface area, reconnected the battery, closed the device, and ordered a replacement set of M2x2.5 screws.
 10. **15.07.2026:** With the new screws in hand, I opened the device again.
 11. To remove the stripped screws without risking the motherboard using aggressive methods, I used the angled cutting chisel from my plastic models to redefine the screw head with patience. I managed to turn them slightly until unseated and removed them in a cross pattern (diagonal) using precision needle-nose pliers.
+<p align="center">
+  <img src="images/hardware-maintenance-12.jpg" width="48%" alt="HWMonitor Initial Test Part 1" />
+  <img src="images/hardware-maintenance-13.jpg" width="48%" alt="HWMonitor Initial Test Part 2" />
+</p>
+
 12. Removed heatsink and fan.
 13. Cleaned dust and lint from fan blades and ventilation grilles using brushes and the electric blower.
+<p align="center">
+  <img src="images/hardware-maintenance-14.jpg" width="30%" alt="HWMonitor Initial Test Part 1" />
+  <img src="images/hardware-maintenance-15.jpg" width="30%" alt="HWMonitor Initial Test Part 2" />
+  <img src="images/hardware-maintenance-16.jpg" width="30%" alt="HWMonitor Initial Test Part 2" />
+</p>
+
 14. Cleaned off dry thermal paste from processor and heatsink using isopropyl alcohol and cotton swabs until completely spotless.
 15. Applied the new ARCTIC MX-7 thermal paste.
 16. Mounted the components and heatsink, adjusting screws in an "X" pattern two turns first, then gave them final adjustment applying the "snug plus a quarter turn" rule without forcing.
