@@ -116,7 +116,7 @@ Open the device, replace the thermal paste, and perform a deep cleaning of the c
 7. Determined the disassembly sequence after reviewing support documentation and videos: Wi-Fi antenna cables, heatsink, fan.
 8. ⚠️ **Critical Problem:** 2 of the 4 screws securing the heatsink to the processor were stripped/barred. Exposed to constant temperature changes, they suffered thermal fatigue, weakening the material.
 <p align="center">
-  <img src="images/hardware-maintenance-1.jpg" width="50%" alt="Laptop Huawei Matebook D14 (2021)" />
+  <img src="images/hardware-maintenance-11.jpg" width="50%" alt="Laptop Huawei Matebook D14 (2021)" />
 </p>
 
 9. **Problem Resolution:** Temporarily aborted maintenance, cleaned surface area, reconnected the battery, closed the device, and ordered a replacement set of M2x2.5 screws.
