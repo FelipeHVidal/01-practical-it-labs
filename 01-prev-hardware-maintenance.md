@@ -100,6 +100,7 @@ Open the device, replace the thermal paste, and perform a deep cleaning of the c
   <img src="images/hardware-maintenance-05.jpg" width="48%" alt="HWMonitor Initial Test Part 1" />
   <img src="images/hardware-maintenance-06.jpg" width="48%" alt="HWMonitor Initial Test Part 2" />
 </p>
+
 5. ⚠️ **Disconnected the battery as the first safety step** after the initial visual inspection.
 6. Identified the components and critical points to clean: cooling fan, heatsink, and ventilation grilles.
 7. Determined the disassembly sequence after reviewing support documentation and videos: Wi-Fi antenna cables, heatsink, fan.
