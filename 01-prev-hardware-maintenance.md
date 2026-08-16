@@ -8,7 +8,7 @@
 
 Preventive maintenance on a personal-use Huawei MateBook D14 (2021) laptop.
 <p align="center">
-  <img src="hardware-maintenance-01.jpg" width="50%" alt="Laptop Huawei Matebook D14 (2021)" />
+  <img src="images/hardware-maintenance-02.jpg" width="50%" alt="Laptop Huawei Matebook D14 (2021)" />
 </p>
 
 ---
