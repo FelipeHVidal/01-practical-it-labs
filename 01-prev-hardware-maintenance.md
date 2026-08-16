@@ -163,6 +163,10 @@ I conducted a new performance test under the exact same parameters, producing th
 | **Minimum Temperature (Min)** | 41.8 °C | 37.5 °C |
 | **Idle Temperature (Value)** | 47.1 °C | 40.4 °C |
 | **Maximum Temperature (Stress)** | 96.5 °C | 69.1 °C |
+<p align="center">
+  <img src="images/hardware-maintenance-21.JPG" width="48%" alt="HWMonitor Initial Test Part 1" />
+  <img src="images/hardware-maintenance-22.JPG" width="48%" alt="HWMonitor Initial Test Part 2" />
+</p>
 
 ---
 
