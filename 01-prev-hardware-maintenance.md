@@ -136,9 +136,18 @@ Open the device, replace the thermal paste, and perform a deep cleaning of the c
 </p>
 
 14. Cleaned off dry thermal paste from processor and heatsink using isopropyl alcohol and cotton swabs until completely spotless.
+<p align="center">
+  <img src="images/hardware-maintenance-17.jpg" width="48%" alt="HWMonitor Initial Test Part 1" />
+  <img src="images/hardware-maintenance-18.jpg" width="48%" alt="HWMonitor Initial Test Part 2" />
+</p>
+
 15. Applied the new ARCTIC MX-7 thermal paste.
 16. Mounted the components and heatsink, adjusting screws in an "X" pattern two turns first, then gave them final adjustment applying the "snug plus a quarter turn" rule without forcing.
 17. Verified connections against initial reference photos, reconnected the battery, and closed the chassis.
+<p align="center">
+  <img src="images/hardware-maintenance-19.jpg" width="48%" alt="HWMonitor Initial Test Part 1" />
+  <img src="images/hardware-maintenance-20.jpg" width="48%" alt="HWMonitor Initial Test Part 2" />
+</p>
 
 ---
 
