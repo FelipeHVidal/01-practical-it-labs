@@ -23,6 +23,9 @@ From its purchase in 2021 until July 2026, the laptop had never undergone physic
 * Visible dust build-up inside the cooling fan upon visual inspection.
 * High surface temperatures noticeable to the touch around the keyboard area.
 * On one occasion, the device executed a preventive shutdown to avoid permanent damage to the processor (CPU) or graphics card (GPU).
+<p align="center">
+  <img src="images/hardware-maintenance-01.jpg" width="50%" alt="Laptop Huawei Matebook D14 (2021)" />
+</p>
 
 ---
 
