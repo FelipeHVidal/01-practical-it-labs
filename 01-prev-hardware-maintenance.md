@@ -35,6 +35,9 @@ From its purchase in 2021 until July 2026, the laptop had never undergone physic
 
 * **HWMonitor:** to observe and record temperature changes of the system at idle and under demanding tasks.
 * **Cinebench R23:** as a system stressor running the CPU Multi Core test, which forces all cores and threads to work at 100%. The software is compatible with the laptop, which features an AMD Ryzen 5 3500U Processor (4 cores / 8 threads).
+<p align="center">
+  <img src="images/hardware-maintenance-02.jpg" width="50%" alt="Laptop Huawei Matebook D14 (2021)" />
+</p>
 
 **B) Test sequence:**
 
@@ -47,6 +50,12 @@ From its purchase in 2021 until July 2026, the laptop had never undergone physic
 * **Minimum Temperature (Min) when cold:** 41.8 °C
 * **Idle Temperature (Value):** 47.1 °C
 * **Maximum Temperature reached under stress:** 96.5 °C
+<p align="left">
+  <img src="images/hardware-maintenance-03.jpg" width="50%" alt="Laptop Huawei Matebook D14 (2021)" />
+</p>
+<p align="right">
+  <img src="images/hardware-maintenance-04.jpg" width="50%" alt="Laptop Huawei Matebook D14 (2021)" />
+</p>
 
 #### Diagnostic conclusions
 
