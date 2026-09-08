@@ -65,6 +65,10 @@ So yes, I know how to do this procedure that is easy now, and I am grateful that
 6. The system will start the version of Windows with the basic manufacturer configuration.
 7. Through the manufacturer's software (Huawei) "PC Manager", we will do a first general Hardware check, then a driver check.
 8. After analyzing the missing drivers, I download their updated versions, which are installed automatically.
+<p align="center">
+  <img src="images/formatting_06.jpg" width="50%" alt="Laptop Huawei Matebook D14 (2021)" />
+</p>
+
 9. I review all preinstalled Windows software in the system and begin their uninstallation, for example this unlicensed version of the Microsoft Office suite, since I will install the open source office suite, OnlyOffice. 
 11. I install Windows updates which, among other things, contain security patches.
 12. I install the official Microsoft PC Manager app, to clean, speed up and optimize the operating system. Although it is not available in Europe, I change my location to the United States and download and install the app from the Microsoft Store.
