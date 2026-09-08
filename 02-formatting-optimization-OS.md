@@ -84,7 +84,12 @@ So yes, I know how to do this procedure that is easy now, and I am grateful that
 <p align="center">
   <img src="images/formatting_10.jpg" width="50%" alt="Laptop Huawei Matebook D14 (2021)" />
 </p>
-13. Once I have Windows optimized with the processes I know, I look for the Chris Titus tool, officially "WinUtil", which is an open source PowerShell-based script designed to optimize, clean (debloat) and customize Windows 10 (and 11). The tool is considered safe and has wide support from the technical community.
+
+12. Once I have Windows optimized with the processes I know, I look for the Chris Titus tool, officially "WinUtil", which is an open source PowerShell-based script designed to optimize, clean (debloat) and customize Windows 10 (and 11). The tool is considered safe and has wide support from the technical community.
+<p align="center">
+  <img src="images/formatting_11.jpg" width="50%" alt="Laptop Huawei Matebook D14 (2021)" />
+</p>
+
 14. I run WinUtil according to the creator's instructions and select Tweaks-->Standard, in addition to selecting some boxes in Advanced Tweaks mode such as Microsoft OneDrive (which I do not use), Microsoft Edge - Remove, Background Apps - Disable, among others.
 15. I apply the changes and restart. 
 16. Everything has turned out well and successfully.
@@ -93,6 +98,10 @@ So yes, I know how to do this procedure that is easy now, and I am grateful that
 ### 📊 Results
 
 - Reduced idle RAM consumption from 39% to 34%, increasing its availability.
+<p align="center">
+  <img src="images/formatting_12.jpg" width="50%" alt="Reduced idle RAM" />
+</p>
+
 - Deleted OneDrive and unnecessary apps or games that Microsoft includes by default and that only take up disk space.
 - Removed Microsoft Edge and its automatic update system so it doesn't reinstall itself.
 - Prevented Windows background applications (like Mail or Weather) from running covertly, saving RAM and battery.
