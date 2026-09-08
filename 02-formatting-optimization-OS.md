@@ -49,6 +49,11 @@ So yes, I know how to do this procedure that is easy now, and I am grateful that
 1. Make a backup copy on an external drive of all the files that are important to me and that I am certain I will continue using in the future (Photos, text documents, videos, books, etc.).
 2. Make sure the equipment is connected to a power source to prevent it from turning off in the middle of the installation, as this could be harmful and damage the system.
 3. Turn off the equipment. Restart and, while it restarts, repeatedly press the F10 key to start the "Smart Reset" program.
+<p align="center">
+  <img src="images/formatting_01.jpg" width="48%" alt="Huawei Laptop Formatting" />
+  <img src="images/formatting_02.jpg" width="48%" alt="Huawei Laptop Formatting" />
+</p>
+
 4. The system will format the C drive, of which I already backed up the important files.
 5. Start the factory reset. The equipment will take a few minutes for the operation. Upon completion, it will restart automatically.
 6. The system will start the version of Windows with the basic manufacturer configuration.
