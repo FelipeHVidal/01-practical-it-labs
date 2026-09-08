@@ -99,7 +99,7 @@ So yes, I know how to do this procedure that is easy now, and I am grateful that
 
 - Reduced idle RAM consumption from 39% to 34%, increasing its availability.
 <p align="center">
-  <img src="images/formatting_12.jpg" width="25%" alt="Reduced idle RAM" />
+  <img src="images/formatting_13.jpg" width="50%" alt="Reduced idle RAM" />
 </p>
 
 - Deleted OneDrive and unnecessary apps or games that Microsoft includes by default and that only take up disk space.
