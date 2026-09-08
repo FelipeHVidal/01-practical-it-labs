@@ -80,7 +80,10 @@ So yes, I know how to do this procedure that is easy now, and I am grateful that
   <img src="images/formatting_09.jpg" width="48%" alt="Laptop Huawei Matebook D14 (2021)" />
 </p>
 
-12. I install the official Microsoft PC Manager app, to clean, speed up and optimize the operating system. Although it is not available in Europe, I change my location to the United States and download and install the app from the Microsoft Store.
+11. I install the official Microsoft PC Manager app, to clean, speed up and optimize the operating system. Although it is not available in Europe, I change my location to the United States and download and install the app from the Microsoft Store.
+<p align="center">
+  <img src="images/formatting_10.jpg" width="50%" alt="Laptop Huawei Matebook D14 (2021)" />
+</p>
 13. Once I have Windows optimized with the processes I know, I look for the Chris Titus tool, officially "WinUtil", which is an open source PowerShell-based script designed to optimize, clean (debloat) and customize Windows 10 (and 11). The tool is considered safe and has wide support from the technical community.
 14. I run WinUtil according to the creator's instructions and select Tweaks-->Standard, in addition to selecting some boxes in Advanced Tweaks mode such as Microsoft OneDrive (which I do not use), Microsoft Edge - Remove, Background Apps - Disable, among others.
 15. I apply the changes and restart. 
