@@ -61,6 +61,7 @@ So yes, I know how to do this procedure that is easy now, and I am grateful that
   <img src="images/formatting_04.jpg" width="30%" alt="Huawei Laptop Formatting" />
   <img src="images/formatting_05.jpg" width="30%" alt="Huawei Laptop Formatting" />
 </p>
+
 7. The system will start the version of Windows with the basic manufacturer configuration.
 8. Through the manufacturer's software (Huawei) "PC Manager", we will do a first general Hardware check, then a driver check.
 9. After analyzing the missing drivers, I download their updated versions, which are installed automatically.
