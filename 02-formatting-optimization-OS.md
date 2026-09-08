@@ -56,16 +56,21 @@ So yes, I know how to do this procedure that is easy now, and I am grateful that
 
 4. The system will format the C drive, of which I already backed up the important files.
 5. Start the factory reset. The equipment will take a few minutes for the operation. Upon completion, it will restart automatically.
-6. The system will start the version of Windows with the basic manufacturer configuration.
-7. Through the manufacturer's software (Huawei) "PC Manager", we will do a first general Hardware check, then a driver check.
-8. After analyzing the missing drivers, I download their updated versions, which are installed automatically.
-9. I review all preinstalled Windows software in the system and begin their uninstallation, for example this unlicensed version of the Microsoft Office suite, since I will install the open source office suite, OnlyOffice. 
-10. I install Windows updates which, among other things, contain security patches.
-11. I install the official Microsoft PC Manager app, to clean, speed up and optimize the operating system. Although it is not available in Europe, I change my location to the United States and download and install the app from the Microsoft Store.
-12. Once I have Windows optimized with the processes I know, I look for the Chris Titus tool, officially "WinUtil", which is an open source PowerShell-based script designed to optimize, clean (debloat) and customize Windows 10 (and 11). The tool is considered safe and has wide support from the technical community.
-13. I run WinUtil according to the creator's instructions and select Tweaks-->Standard, in addition to selecting some boxes in Advanced Tweaks mode such as Microsoft OneDrive (which I do not use), Microsoft Edge - Remove, Background Apps - Disable, among others.
-14. I apply the changes and restart. 
-15. Everything has turned out well and successfully.
+6. <p align="center">
+  <img src="images/formatting_03.jpg" width="30%" alt="Huawei Laptop Formatting" />
+  <img src="images/formatting_04.jpg" width="30%" alt="Huawei Laptop Formatting" />
+  <img src="images/formatting_05.jpg" width="30%" alt="Huawei Laptop Formatting" />
+</p>
+7. The system will start the version of Windows with the basic manufacturer configuration.
+8. Through the manufacturer's software (Huawei) "PC Manager", we will do a first general Hardware check, then a driver check.
+9. After analyzing the missing drivers, I download their updated versions, which are installed automatically.
+10. I review all preinstalled Windows software in the system and begin their uninstallation, for example this unlicensed version of the Microsoft Office suite, since I will install the open source office suite, OnlyOffice. 
+11. I install Windows updates which, among other things, contain security patches.
+12. I install the official Microsoft PC Manager app, to clean, speed up and optimize the operating system. Although it is not available in Europe, I change my location to the United States and download and install the app from the Microsoft Store.
+13. Once I have Windows optimized with the processes I know, I look for the Chris Titus tool, officially "WinUtil", which is an open source PowerShell-based script designed to optimize, clean (debloat) and customize Windows 10 (and 11). The tool is considered safe and has wide support from the technical community.
+14. I run WinUtil according to the creator's instructions and select Tweaks-->Standard, in addition to selecting some boxes in Advanced Tweaks mode such as Microsoft OneDrive (which I do not use), Microsoft Edge - Remove, Background Apps - Disable, among others.
+15. I apply the changes and restart. 
+16. Everything has turned out well and successfully.
 
 ---
 ### 📊 Results
